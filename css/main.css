@@ -1,6 +1,7 @@
 p {color: beige;}
 body {
-    background-image: url(/image/Background.jpg)
+    background-image: url(../image/Background.jpg);
+    margin: 0;
 }
 h1{color: aliceblue;}
 p {font-weight: bold }
